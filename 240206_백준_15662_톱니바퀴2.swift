@@ -1,4 +1,4 @@
-// 240206_백준_톱니바퀴2
+// 240206_백준_1톱니바퀴2
 
 // INPUT
 var gearCount = Int(readLine()!)!
